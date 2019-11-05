@@ -16,5 +16,10 @@ namespace Credi_Pisto
         {
             InitializeComponent();
         }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
