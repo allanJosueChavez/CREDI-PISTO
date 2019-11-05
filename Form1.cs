@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.SqlClient;
+
 
 namespace Credi_Pisto
 {
@@ -16,5 +18,33 @@ namespace Credi_Pisto
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+      
+        private void Form1_Load_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load_2(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            Conexion.conectar();
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        
     }
 }
