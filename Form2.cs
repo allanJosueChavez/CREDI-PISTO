@@ -23,10 +23,10 @@ namespace Credi_Pisto
 
         private void Form2_Load(object sender, EventArgs e)
         {
-            Form1 Form1 = new Form1();
-         
-            toolStripMenuItem1.Text = (Form1.obtenerUsuario());
 
+           
+        
+            toolStripMenuItem1.Text = ("Inició sesion como:"+ Usuario.enableUser);
 
         }
 
@@ -70,6 +70,13 @@ namespace Credi_Pisto
         private void toolStripMenuItem1_Click(object sender, EventArgs e)
         {
             //toolStripMenuItem1.Text = ("   | Inició sesión como" + " | ");
+        }
+
+        private void cerrarSesiónToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form1 Form1 = new Form1();
+            Form1.Show();
+            this.Hide();
         }
     }
 }

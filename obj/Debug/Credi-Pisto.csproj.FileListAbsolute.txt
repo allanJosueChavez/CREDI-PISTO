@@ -8,3 +8,8 @@ C:\Users\usuario\Documents\PROYECTOS\Credi-Pisto\Credi-Pisto\obj\Debug\Credi-Pis
 C:\Users\usuario\Documents\PROYECTOS\Credi-Pisto\Credi-Pisto\obj\Debug\Credi-Pisto.pdb
 C:\Users\usuario\Documents\PROYECTOS\Credi-Pisto\Credi-Pisto\obj\Debug\Credi_Pisto.Form1.resources
 C:\Users\usuario\Documents\PROYECTOS\Credi-Pisto\Credi-Pisto\obj\Debug\Credi_Pisto.Form2.resources
+C:\Users\usuario\Documents\PROYECTOS\Credi-Pisto\Credi-Pisto\obj\Debug\Credi_Pisto.Form3.resources
+C:\Users\usuario\Documents\PROYECTOS\Credi-Pisto\Credi-Pisto\obj\Debug\Credi_Pisto.Form4.resources
+C:\Users\usuario\Documents\PROYECTOS\Credi-Pisto\Credi-Pisto\obj\Debug\Credi_Pisto.Form5.resources
+C:\Users\usuario\Documents\PROYECTOS\Credi-Pisto\Credi-Pisto\obj\Debug\Credi_Pisto.Form6.resources
+C:\Users\usuario\Documents\PROYECTOS\Credi-Pisto\Credi-Pisto\obj\Debug\Credi_Pisto.Form7.resources

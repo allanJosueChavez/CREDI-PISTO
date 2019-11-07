@@ -90,7 +90,6 @@
             this.usuarios.Name = "usuarios";
             this.usuarios.Size = new System.Drawing.Size(71, 21);
             this.usuarios.Text = "Usuarios";
-           
             // 
             // dsdssdToolStripMenuItem
             // 
@@ -133,8 +132,9 @@
             // cerrarSesiónToolStripMenuItem
             // 
             this.cerrarSesiónToolStripMenuItem.Name = "cerrarSesiónToolStripMenuItem";
-            this.cerrarSesiónToolStripMenuItem.Size = new System.Drawing.Size(155, 22);
+            this.cerrarSesiónToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.cerrarSesiónToolStripMenuItem.Text = "Cerrar Sesión";
+            this.cerrarSesiónToolStripMenuItem.Click += new System.EventHandler(this.cerrarSesiónToolStripMenuItem_Click);
             // 
             // button1
             // 
