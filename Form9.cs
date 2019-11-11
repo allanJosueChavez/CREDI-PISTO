@@ -10,18 +10,21 @@ using System.Windows.Forms;
 
 namespace Credi_Pisto
 {
-    public partial class Form5 : Form
+    public partial class Form9 : Form
     {
-        public Form5()
+        public Form9()
         {
             InitializeComponent();
         }
 
-        private void button7_Click(object sender, EventArgs e)
+        private void Form9_Load(object sender, EventArgs e)
         {
-            Form2 form2 = new Form2();
-            form2.Show();
-            this.Hide();
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            //HABILITAR SI LA EVALUACION ES COMPLETADA
         }
     }
 }

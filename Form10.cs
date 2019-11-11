@@ -10,18 +10,11 @@ using System.Windows.Forms;
 
 namespace Credi_Pisto
 {
-    public partial class Form5 : Form
+    public partial class Form10 : Form
     {
-        public Form5()
+        public Form10()
         {
             InitializeComponent();
-        }
-
-        private void button7_Click(object sender, EventArgs e)
-        {
-            Form2 form2 = new Form2();
-            form2.Show();
-            this.Hide();
         }
     }
 }

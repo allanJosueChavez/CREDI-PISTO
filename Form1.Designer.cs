@@ -77,6 +77,7 @@
             this.Controls.Add(this.textBox1);
             this.Name = "Form1";
             this.Text = "LOGIN";
+            this.Load += new System.EventHandler(this.Form1_Load_3);
             this.ResumeLayout(false);
             this.PerformLayout();
 
