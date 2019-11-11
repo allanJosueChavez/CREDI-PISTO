@@ -55,7 +55,6 @@ namespace Credi_Pisto
        
         private void button1_Click(object sender, EventArgs e)
         {
-            Usuario.enableUser = textBox1.Text;
             try
             {
 
@@ -88,11 +87,15 @@ namespace Credi_Pisto
               
                 MessageBox.Show("¡Error! Su contraseña y/o usuario son invalidos.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
-             
+             enableUser = textBox1.Text;
             
         }
         
-      
+        public string obtenerUsuario()
+        {
+            enableUser = textBox1.Text;
+            return enableUser;
+        }
 
 
 
